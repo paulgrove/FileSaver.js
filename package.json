@@ -2,7 +2,7 @@
   "name": "file-saver",
   "version": "2.0.4",
   "description": "An HTML5 saveAs() FileSaver implementation",
-  "main": "dist/FileSaver.min.js",
+  "main": "dist/FileSaver.js",
   "files": [
     "dist/FileSaver.js",
     "dist/FileSaver.min.js",
